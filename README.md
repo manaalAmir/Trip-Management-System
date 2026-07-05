@@ -124,6 +124,4 @@ Compile and run `Main.java`.
 
 
 
-## 📄 License
 
-This project is for educational purposes and may be freely used and modified for learning.
