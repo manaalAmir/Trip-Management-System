@@ -4,7 +4,7 @@
 
 The **Trip Management System** is a Java-based desktop application designed to simplify the planning and management of educational and recreational trips. It allows users to manage trips, book seats, and organize trip-related information through an intuitive graphical user interface (GUI).
 
-This project was developed as part of a Software Engineering course and demonstrates the use of Object-Oriented Programming (OOP), MVC architecture, and Java Swing.
+This project was developed as part of a Software Design and Analysis course semester project and demonstrates the use of Object-Oriented Programming (OOP), MVC architecture, and Java Swing.
 
 ---
 
